@@ -44,7 +44,7 @@ Grover's notebook:  https://github.com/groverpr/deep-learning/blob/master/image_
 * test  log_loss = **0.2394**  
 * notebook:  7_6_x
 * submitted Jan 20
-* bs=32, sz=150, resize 1.3, sgdr 5 epochs
+* bs=32, sz=75, resize 1.3, sgdr 5 epochs
 * Leaderboard:  2333 of 3309
 
 ---
@@ -53,6 +53,15 @@ Grover's notebook:  https://github.com/groverpr/deep-learning/blob/master/image_
 * test  log_loss = **0.xxx**  
 * notebook:  7_x
 * submitted Jan 20
+* bs=32, sz=150, resize 1.3, sgdr 5 epochs
+* Leaderboard:  2xxx of xxxx
+
+---
+## 5)  
+* valid log_loss = 0.xxxx
+* test  log_loss = **0.xxx**  
+* notebook:  7_x
+* submitted 
 * bs=32, sz=150, resize 1.3, sgdr 5 epochs
 * Leaderboard:  2xxx of xxxx
 
