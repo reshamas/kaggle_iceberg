@@ -55,11 +55,12 @@ Grover's notebook:  https://github.com/groverpr/deep-learning/blob/master/image_
 * submitted Jan 20
 * bs=32, sz=150, resize 1.3, sgdr 5 epochs
 * Leaderboard:  2xxx of xxxx
-    
-###
-got 0.235 sz=150, zm 1.5
-got 0.2258 ? resnext50, more epochs?
 
+
+---
+### test ??
+* got 0.235 sz=150, zm 1.5
+* got 0.2258 ? resnext50, more epochs?
 
 ---
     
