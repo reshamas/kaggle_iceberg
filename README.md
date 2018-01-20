@@ -52,7 +52,7 @@ Grover's notebook:  https://github.com/groverpr/deep-learning/blob/master/image_
 * test  log_loss = **0.2073**  
 * notebook:  http://localhost:8888/notebooks/my_repos/kaggle_iceberg/7_7_resnext50_more_epoch_update_sz_zm15.ipynb
 * submitted Jan 20
-* bs=32, sz=75, resize 1.5, sgdr 5 epochs, lr=0.0075
+* bs=32, sz=75, resize 1.5, sgdr 5 epochs, lr=0.0075, dropout=0.55
 * Leaderboard:  1997 of 3310 --> 60th percentile
 
 ---
