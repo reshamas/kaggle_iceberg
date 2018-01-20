@@ -25,13 +25,13 @@ Grover's notebook:  https://github.com/groverpr/deep-learning/blob/master/image_
 ---
 # Models
 
-## Grover's Baseline:  resnet18
+## 1)  Grover's Baseline:  resnet18
 * valid log_loss = 0.2918
 * test  log_loss = **0.2932**  
 * bs=32, image sz=75, resize 1.3x
 
 ---
-## resnext50
+## 2)  resnext50
 * valid log_loss = 0.269
 * test  log_loss = **0.2566**  
 * notebook:  http://localhost:8888/notebooks/kaggle_iceberg/7_1_resnext50_more_epoch_submitted.ipynb
@@ -39,7 +39,7 @@ Grover's notebook:  https://github.com/groverpr/deep-learning/blob/master/image_
 * bs=32, sz=150, resize 1.3, sgdr 5 epochs
 
 ---
-## resnext50
+## 3)  resnext50
 * valid log_loss = 0.2508
 * test  log_loss = **0.2394**  
 * notebook:  7_6_x
@@ -47,7 +47,14 @@ Grover's notebook:  https://github.com/groverpr/deep-learning/blob/master/image_
 * bs=32, sz=150, resize 1.3, sgdr 5 epochs
 * Leaderboard:  2333 of 3309
 
-
+---
+## 4)  
+* valid log_loss = 0.xxxx
+* test  log_loss = **0.xxx**  
+* notebook:  7_x
+* submitted Jan 20
+* bs=32, sz=150, resize 1.3, sgdr 5 epochs
+* Leaderboard:  2xxx of xxxx
     
 ###
 got 0.235 sz=150, zm 1.5
