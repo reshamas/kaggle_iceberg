@@ -38,6 +38,9 @@ Grover's notebook:  https://github.com/groverpr/deep-learning/blob/master/image_
     - bs=32, sz=150, resize 1.3, sgdr 5 epochs
     
     
+###
+got 0.235 sz=150, zm 1.5
+
 
 ---
     
