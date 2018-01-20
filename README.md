@@ -43,6 +43,7 @@ Grover's notebook:  https://github.com/groverpr/deep-learning/blob/master/image_
 * notebook:  7_6_x
 * submitted Jan 20
 * bs=32, sz=150, resize 1.3, sgdr 5 epochs
+* Leaderboard:  2333 of 3309
 
 
     
