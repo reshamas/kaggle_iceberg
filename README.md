@@ -31,10 +31,11 @@ Grover's notebook:  https://github.com/groverpr/deep-learning/blob/master/image_
 
 ## Models Submitted
 
-### resnext50 (log_loss = 0.269)
+### resnext50
+#### log_loss = 0.269
+#### test log_loss = 0.2566
 notebook:  http://localhost:8888/notebooks/kaggle_iceberg/7_1_resnext50_more_epoch_submitted.ipynb
 - submitted Jan 14
-- on test data, log_loss was **0.2566**
 - bs=32, sz=150, resize 1.3, sgdr 5 epochs
     
     
