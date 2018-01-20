@@ -70,7 +70,12 @@ Grover's notebook:  https://github.com/groverpr/deep-learning/blob/master/image_
 ### test ??
 * got 0.2258 ? resnext50, more epochs?
 
-    
+---
+
+# Kaggle Rankings
+- 1655 of 3310 --> 50% percentile 0.1865
+- 984 of 3310 --> 29.7% percentile 0.1498
+- 19 of 3310 --> 0.6% percentile 0.1002
     
     
     
