@@ -48,13 +48,13 @@ Grover's notebook:  https://github.com/groverpr/deep-learning/blob/master/image_
 * Leaderboard:  2333 of 3309
 
 ---
-## 4)  
-* valid log_loss = 0.xxxx
-* test  log_loss = **0.xxx**  
-* notebook:  7_x
+## 4)  resnext50
+* valid log_loss = 0.2272
+* test  log_loss = **0.2073**  
+* notebook:  http://localhost:8888/notebooks/my_repos/kaggle_iceberg/7_7_resnext50_more_epoch_update_sz_zm15.ipynb
 * submitted Jan 20
-* bs=32, sz=150, resize 1.3, sgdr 5 epochs
-* Leaderboard:  2xxx of xxxx
+* bs=32, sz=75, resize 1.5, sgdr 5 epochs, lr=0.0075
+* Leaderboard:  1997 of 3310
 
 ---
 ## 5)  
