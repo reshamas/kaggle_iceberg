@@ -68,25 +68,8 @@ Grover's notebook:  https://github.com/groverpr/deep-learning/blob/master/image_
 
 ---
 ### test ??
-* got 0.235 sz=150, zm 1.5
 * got 0.2258 ? resnext50, more epochs?
 
----
-    
-### resnext50 (log_loss = 0.248)
-    - follow Grover's other defaults
-    - resize 1.3x
-    
-
-### resnext50 (log_loss = 0.249)
-    - follow Grover's other defaults
-    - resize 1.5x
-    
-   
-### resnext50 (log_loss = 0.250)
-    - follow Grover's other defaults
-    - resize 1.2x
-    - zoom 1.2
     
     
     
