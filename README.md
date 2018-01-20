@@ -45,7 +45,7 @@ Grover's notebook:  https://github.com/groverpr/deep-learning/blob/master/image_
 * notebook:  7_6_x
 * submitted Jan 20
 * bs=32, sz=75, resize 1.3, sgdr 5 epochs
-* Leaderboard:  2333 of 3309
+* Leaderboard:  2333 of 3309 --> 70.5 percentile
 
 ---
 ## 4)  resnext50
@@ -54,7 +54,7 @@ Grover's notebook:  https://github.com/groverpr/deep-learning/blob/master/image_
 * notebook:  http://localhost:8888/notebooks/my_repos/kaggle_iceberg/7_7_resnext50_more_epoch_update_sz_zm15.ipynb
 * submitted Jan 20
 * bs=32, sz=75, resize 1.5, sgdr 5 epochs, lr=0.0075
-* Leaderboard:  1997 of 3310
+* Leaderboard:  1997 of 3310 --> 60th percentile
 
 ---
 ## 5)  
