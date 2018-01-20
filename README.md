@@ -15,12 +15,11 @@ Grover's notebook:  https://github.com/groverpr/deep-learning/blob/master/image_
 - cross validation
 - stacking of models (ensembling)
 - look at, within various models, which images are being misclassified
-
 - RS: notebook had CV  https://github.com/irshadqemu/Kaggle-Competitions/blob/master/Planet_amazon_resnet34.ipynb
-- RS: submit that notebook where I had 0.2258
 
 ## Done
 - RS: running Grover's NB, with resnext50, increase image size sequentially (my notebook 7_5_xxx)
+- RS: submit that notebook where I had 0.2258
 
 ---
 # Models
