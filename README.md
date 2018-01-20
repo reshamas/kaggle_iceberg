@@ -37,6 +37,12 @@ Grover's notebook:  https://github.com/groverpr/deep-learning/blob/master/image_
 * bs=32, sz=150, resize 1.3, sgdr 5 epochs
 
 ---
+## resnext50
+* valid log_loss = 0.2508
+* test  log_loss = **0.2394**  
+* notebook:  7_6_x
+* submitted Jan 20
+* bs=32, sz=150, resize 1.3, sgdr 5 epochs
 
 
     
