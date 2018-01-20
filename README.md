@@ -21,14 +21,15 @@ Grover's notebook:  https://github.com/groverpr/deep-learning/blob/master/image_
 
 
 ---
-## Models
+# Models
 
-### Baseline:  resnet18 (log_loss = 0.2918)
-    - follow Grover data setup
-    - image sz=75
-    - resize 1.3x
-    - bs=32
+## Baseline:  resnet18 (log_loss = 0.2918)
+- follow Grover data setup
+- image sz=75
+- resize 1.3x
+- bs=32
 
+---
 ## Models Submitted
 
 ### resnext50
@@ -38,7 +39,10 @@ Grover's notebook:  https://github.com/groverpr/deep-learning/blob/master/image_
 notebook:  http://localhost:8888/notebooks/kaggle_iceberg/7_1_resnext50_more_epoch_submitted.ipynb
 - submitted Jan 14
 - bs=32, sz=150, resize 1.3, sgdr 5 epochs
-    
+
+---
+
+
     
 ###
 got 0.235 sz=150, zm 1.5
