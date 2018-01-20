@@ -23,16 +23,15 @@ Grover's notebook:  https://github.com/groverpr/deep-learning/blob/master/image_
 ---
 # Models
 
-## Baseline:  resnet18 (log_loss = 0.2918)
-- follow Grover data setup
+## Grover's Baseline:  resnet18 (log_loss = 0.2918)
+* valid log_loss = 0.2918
+* test  log_loss = **0.2932**  
 - image sz=75
 - resize 1.3x
 - bs=32
 
 ---
-## Models Submitted
-
-### resnext50
+## resnext50
 * valid log_loss = 0.269
 * test  log_loss = **0.2566**  
 
