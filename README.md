@@ -73,10 +73,11 @@ Grover's notebook:  https://github.com/groverpr/deep-learning/blob/master/image_
 ---
 
 # Kaggle Rankings
-- 1655 of 3310 --> 50% percentile 0.1865
-- 984 of 3310 --> 29.7% percentile 0.1498
-- 827 of 3310 --> 25% percentile 0.1463
-- 19 of 3310 --> 0.6% percentile 0.1002
+- 1997 of 3310 --> 60th percentile 0.2073
+- 1655 of 3310 --> 50th percentile 0.1865
+- 984 of 3310 --> 29.7 percentile 0.1498
+- 827 of 3310 --> 25th percentile 0.1463
+- 19 of 3310 --> 0.6 percentile 0.1002
     
     
     
