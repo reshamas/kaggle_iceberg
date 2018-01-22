@@ -7,7 +7,8 @@
 https://www.kaggle.com/c/statoil-iceberg-classifier-challenge  
 
 ### References
-Grover's notebook:  https://github.com/groverpr/deep-learning/blob/master/image_comp_1_2.ipynb
+* Grover's notebook:  https://github.com/groverpr/deep-learning/blob/master/image_comp_1_2.ipynb
+* https://www.kaggle.com/devm2024/keras-model-for-beginners-0-210-on-lb-eda-r-d
 
 ---
 ## To Do
